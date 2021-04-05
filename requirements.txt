@@ -12,7 +12,6 @@ Markdown==3.3.4
 MarkupSafe==1.1.1
 mdToRst==1.1.0
 packaging==20.9
-pkg-resources==0.0.0
 Pygments==2.8.1
 pyparsing==2.4.7
 PyPDF2==1.26.0
